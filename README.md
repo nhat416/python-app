@@ -1,4 +1,4 @@
-# python-app-test
+# python-app
 ![Tests](https://github.com/nhat416/python-app/actions/workflows/tests.yml/badge.svg)
 
 Test Python App with GitHub Actions
